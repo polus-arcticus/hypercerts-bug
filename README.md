@@ -1,3 +1,5 @@
+# Hypercerts-sdk client bug
+To reproduce please add your nft storage token in the App.tsx file and use the optimism network with an injected wallet
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
